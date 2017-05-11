@@ -10,3 +10,10 @@ end
 
 task default: :test
 task spec: :test
+
+task clear_users: :environment do
+  # bundle exec rake clear_users
+  # UserRepository.new.clear
+  puts 'Define Task'
+end
+
