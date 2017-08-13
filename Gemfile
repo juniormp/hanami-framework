@@ -26,4 +26,3 @@ group :production do
 end
 
 gem 'bugsnag'
-#test
