@@ -26,3 +26,4 @@ group :production do
 end
 
 gem 'bugsnag'
+# testing git 1
